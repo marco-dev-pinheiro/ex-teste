@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://marco-dev-pinheiro.github.io/ex-teste/sitemap.xml
